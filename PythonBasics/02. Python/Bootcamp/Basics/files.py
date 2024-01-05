@@ -1,0 +1,28 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  2 10:21:38 2024
+
+@author: manoj
+"""
+
+history_essay = """The Renaissance, a period of cultural and intellectual rebirth in Europe, marked a pivotal moment in human history. Emerging in the 14th century, it witnessed a revival of interest in classical art, literature, and philosophy. This era, characterized by a flourishing of creativity, laid the foundation for the modern world.\n
+In the annals of ancient civilizations, the rise and fall of the Roman Empire stand as a testament to the cyclical nature of power and governance. From the heights of Pax Romana to the chaos of its decline, Rome's history is a rich tapestry woven with conquests, innovations, and political intrigues.\n
+The Industrial Revolution, a seismic shift in the 18th and 19th centuries, transformed societies from agrarian to industrial. Steam engines, mechanized production, and urbanization reshaped the economic landscape, propelling nations into an era of unprecedented change. The consequences of this revolution reverberate in our contemporary world.\n
+World War II, a global conflict that engulfed nations from 1939 to 1945, reshaped geopolitics and altered the course of history. The war's impact on technology, geopolitics, and human rights remains a subject of intense study and reflection, illustrating the complex interplay of nations in times of crisis.\n
+The Cold War, a protracted ideological struggle between the United States and the Soviet Union, defined much of the 20th century. Nuclear arms race, proxy wars, and the space race became hallmarks of this geopolitical confrontation, leaving an indelible mark on the world order.\n
+History, as a living tapestry, weaves the stories of individuals, societies, and civilizations. From ancient empires to modern revolutions, each chapter contributes to the collective narrative of human experience. As we delve into the annals of the past, we gain insight into the forces that have shaped our present and continue to influence our future."""
+
+
+sampleFile = open("history.txt", "w")
+sampleFile.write(history_essay)
+sampleFile.close()
+
+# readFileHandle = open("history.txt", 'r')
+# history = readFileHandle.readlines()
+# readFileHandle.close()
+# print(history)
+
+with open("history.txt", "r") as file:
+    for line in file.readlines():
+        print(line, end = '')
+
