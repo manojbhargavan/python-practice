@@ -1,0 +1,31 @@
+AthleteID,FirstName,LastName,Discipline,PB,DatePro,RecordAnnualEarningsUSD
+1,John,Erikson,100m,10.81,2004-05-05,15000
+2,Seble,Bala,100m,10.51,2006-05-05,17000
+3,Eric,Kevinson,100m,11.8,2007-05-05,4000
+4,Patrick,Erikson,100m,11,2004-05-05,6500
+5,Nesta,Karting,100m,10.21,2010-02-05,10000
+6,Iolanta,Elisheba,100m,11.81,2010-02-04,3000
+7,Noxolo,Jordana,100m,10.85,2012-08-20,12000
+8,Boitumelo,Marcy,200m,20.81,2014-05-10,4250
+9,Kanako,Priti,200m,22.81,2014-10-23,15000
+10,Cammie,Lucia,200m,23.81,2015-05-17,8000
+11,Themar,Nereida,200m,19.75,2020-03-17,25000
+12,Darina,Jolene,200m,24.81,2016-05-05,2500
+13,Monica,Thompson,400m,50.81,2018-11-12,4500
+14,Clark,Erikson,400m,43.98,2022-05-05,25000
+15,Marcy,Jhonson,400m,47.77,2016-02-04,5000
+16,Antonia,Shawna,400m,51.81,2021-06-05,2000
+17,Kendra,Jolene,400m,48.52,2016-07-22,5000
+18,Liis,Tara,javelin throw,65.57,2020-07-23,5000
+19,Izabelle,Liza,javelin throw,55.57,2020-07-23,3000
+20,Kathy,Yasmin,javelin throw,35.57,2020-07-25,700
+21,Javier,Marcy,javelin throw,85.57,2021-05-23,20000
+22,Linda,Carolina,long jump,5.81,2006-10-10,1500
+23,Seher,Shams,long jump,8.05,2015-03-10,15000
+24,Debora,Priti,long jump,6.22,2016-04-10,3750
+25,Jessica,Solongo,long jump,6.37,2006-10-10,4500
+26,John,Richardson,shot put,15.34,2014-07-07,4500
+27,Dalila,Kristina,shot put,14.21,2002-12-07,1250
+28,Clark,Bifogo,3000m steeplechase,10.12,2014-05-05,5000
+29,Pons,Bent,3000m steeplechase,8.23,2016-05-23,7500
+30,Khamis,Louis,3000m steeplechase,9.15,2021-07-21,3500
